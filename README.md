@@ -4,7 +4,7 @@
 - Project delivered in October 2024
 - Repository includes two files:
 - 
-  - HTML notebook with Python code written for data analysis and model building
+  - HTML and ipynb notebook with Python code written for data analysis and model building
   - CSV file includes data imported into notebook
     
 ## Problem Statement
